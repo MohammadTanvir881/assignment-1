@@ -209,7 +209,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     color : rgba(7, 2, 17, 0.60);
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 .img-border {
@@ -220,5 +220,62 @@ body {
     border-radius: 50%;
     padding-left: 15px;
     padding-top: 14px;
+}
+
+.holiday {
+    margin-top: 100px;
+}
+
+.holiday-text {
+    text-align: center;
+}
+
+.holiday-text h2 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #070211;
+    margin-top: 10px;
+}
+
+.holiday-text h1 {
+    font-size: 60px;
+    font-family: 900;
+    color: #f00;
+    margin: 20px 0px;
+}
+
+.holiday-text h1 span {
+    color: black;
+}
+
+.holiday-text P {
+     font-size: 18px;
+     font-weight: 500;
+     margin: 20px 60px;
+}
+
+.holiday-img {
+    height: 660px;
+    position: relative;
+    margin-top: 40px;
+    
+}
+
+.div1 {
+    position: absolute;
+    padding: 0px 0px 0px 891px;
+}
+.div2 {
+    position: absolute;
+    padding: 428px 0px 0px 0px;
+}
+.div3 {
+    position: absolute;
+    padding: 89px 0px 0px 739px;
+}
+
+.div4 {
+    position: absolute;
+    padding: 5px 0px 0px 6px;
 }
 
